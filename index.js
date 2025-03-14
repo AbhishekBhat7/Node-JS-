@@ -1,0 +1,1 @@
+const server = require('./model/server');
